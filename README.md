@@ -6,7 +6,7 @@ Olá! Meu nome é Vanderson, seja bem vindo ao meu perfil!
 
 📚 Atualmente expandindo minhas habilidades aprendendo HTML, CSS e JavaScript para me tornar um desenvolvedor Full Stack!
 
-📫 Como entrar em contato comigo: https://www.linkedin.com/in/vanderson-de-azevedo/
+📫 Como entrar em contato comigo: <a href="https://www.linkedin.com/in/vanderson-de-azevedo/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 Habilidades Técnicas:
 
