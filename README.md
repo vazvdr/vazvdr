@@ -9,5 +9,6 @@ Olá! Meu nome é Vanderson, seja bem vindo ao meu perfil!
 📫 Como entrar em contato comigo: https://www.linkedin.com/in/vanderson-de-azevedo/
 
 Habilidades Técnicas: 
-https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg
+ <i class="devicon-adonisjs-original "></i>
+          
           
