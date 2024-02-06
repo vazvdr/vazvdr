@@ -1,6 +1,6 @@
 Olá! Meu nome é Vanderson, seja bem vindo ao meu perfil! 
 
-💼 Trabalhando como Desenvolvedor de Software Java desde agosto de 2023.
+💼 Trabalhando como Desenvolvedor de Software Java com banco da dados relacionais PostgreSQL e MySQL desde agosto de 2023.
 
 🎓 Cursando o 3º período de Analise e Desenvolvimento de Sistemas.
 
