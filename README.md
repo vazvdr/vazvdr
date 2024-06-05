@@ -2,7 +2,7 @@ Olá! Meu nome é Vanderson, seja bem vindo ao meu perfil!
 
 🎓 Cursando o 3º período de Analise e Desenvolvimento de Sistemas.
 
-📚 Atualmente expandindo minhas habilidades aprendendo HTML, CSS e JavaScript para me tornar um desenvolvedor Full Stack!
+📚 Atualmente expandindo minhas habilidades aprendendo Spring Framework, Bootstrap e Jquery para fazer sites mais complexos e dinâmicos!
 
 📫 Como entrar em contato comigo:  <a href="https://www.linkedin.com/in/vanderson-de-azevedo/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
