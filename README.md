@@ -4,7 +4,7 @@ Olá! Meu nome é Vanderson, seja bem vindo ao meu perfil!
 
 📚 Atualmente expandindo minhas habilidades aprendendo Spring Framework, Bootstrap e Jquery para fazer sites mais complexos e dinâmicos!
 
-📫 Como entrar em contato comigo:  <a href="https://www.linkedin.com/in/vanderson-de-azevedo/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" width="80" height="20"></a> 
+📫 <strong> Como entrar em contato comigo: </strong> <a href="https://www.linkedin.com/in/vanderson-de-azevedo/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" width="80" height="20"></a> 
 
 Habilidades Técnicas:
 
