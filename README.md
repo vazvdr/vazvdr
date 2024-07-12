@@ -1,6 +1,6 @@
 Olá! Meu nome é Vanderson, seja bem vindo ao meu perfil! 
 
-🎓 Cursando o 3º período de Analise e Desenvolvimento de Sistemas.
+🎓 Cursando o 4º período de Analise e Desenvolvimento de Sistemas.
 
 📚 Atualmente expandindo minhas habilidades aprendendo SpringBoot Framework, MongoDB e Bootstrap para fazer sites mais complexos e dinâmicos!
 
