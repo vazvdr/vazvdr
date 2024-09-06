@@ -2,7 +2,7 @@ Olá! Meu nome é Vanderson, seja bem vindo ao meu perfil!
 
 🎓 Cursando o 4º período de Analise e Desenvolvimento de Sistemas.
 
-📚 Atualmente expandindo minhas habilidades aprendendo <strong>React</strong> para fazer sites mais complexos e dinâmicos!
+📚 Atualmente expandindo minhas habilidades fazendo um app de agendamento de barbearia com <strong>React-Native</strong>!
 
 📫 <strong>Como entrar em contato comigo: </strong> <a href="https://www.linkedin.com/in/vanderson-de-azevedo/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" width="80" height="20"></a> 
 
