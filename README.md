@@ -4,7 +4,7 @@ Olá! Meu nome é Vanderson, seja bem vindo ao meu perfil!
 
 💻 Atualmente atuo como Dev Frontend Freelancer na Startup Fabrica de Sistemas!
 
-📫 <strong>Como entrar em contato comigo: </strong> <a href="https://www.linkedin.com/in/vanderson-de-azevedo/" target="_blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" width="180" height="200" target="_blank"></a> 
+📫 <strong>Como entrar em contato comigo: </strong> <a href="https://www.linkedin.com/in/vanderson-de-azevedo/" target="_blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" width="180" height="80" target="_blank"></a> 
           
 Habilidades Técnicas:
 
