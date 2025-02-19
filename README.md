@@ -1,8 +1,8 @@
 Olá! Meu nome é Vanderson, seja bem vindo ao meu perfil! 
 
-🎓 Cursando o 4º período de Analise e Desenvolvimento de Sistemas.
+🎓 Cursando o 5º período de Analise e Desenvolvimento de Sistemas.
 
-💻 Atualmente atuo como Dev Frontend Freelancer na Startup Fabrica de Sistemas!
+💻 Atualmente atuo como Dev FullStack Freelancer!
 
 📫 <strong>Como entrar em contato comigo: </strong> <a href="https://www.linkedin.com/in/vanderson-de-azevedo/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" width="80" height="20"></a> 
           
