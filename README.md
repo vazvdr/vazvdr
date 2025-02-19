@@ -1,4 +1,4 @@
-Olá! Meu nome é Vanderson, seja bem vindo ao meu perfil! 
+Olá! Meu nome é <strong>Vanderson</strong>, seja bem vindo ao meu perfil! 
 
 🎓 Cursando o 5º período de Analise e Desenvolvimento de Sistemas.
 
