@@ -1,6 +1,6 @@
 Oi! Meu nome é <strong>Vanderson</strong>, seja bem vindo ao meu perfil! 
 
-🎓 Cursando o 6º período de Analise e Desenvolvimento de Sistemas.
+🎓 Sou formado em Analise e Desenvolvimento de Sistemas.
 
 💻 Atualmente atuo como Dev Mobile e Fullstack Freelancer!
 
